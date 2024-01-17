@@ -21,5 +21,5 @@ Pandas: For data manipulation and analysis.
 NumPy: For numerical operations.
 Matplotlib and Seaborn: For data visualization.
 arabic_reshaper and bidi.algorithm: For processing and displaying Arabic text.
-Requests: For API calls or fetching online data (if applicable).
+Requests: For API calls or fetching online data .
 FontProperties from matplotlib: For font customization in plots.
